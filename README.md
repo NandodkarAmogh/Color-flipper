@@ -25,8 +25,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/NandodkarAmogh/Color-flipper](https://github.com/NandodkarAmogh/Color-flipper)
+- Live Site URL: [https://simplecolor-flipper.netlify.app/](https://simplecolor-flipper.netlify.app/)
 
 ## My process
 
